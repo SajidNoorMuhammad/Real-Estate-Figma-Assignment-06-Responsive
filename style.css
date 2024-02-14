@@ -133,3 +133,137 @@
 .text-8 {
     color: black;
 }
+
+.text-9 {
+    color: black;
+    padding-top: 60px;
+    font-weight: 500;
+}
+
+.text-10 {
+    color: black;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.image-2>img {
+    width: 400px;
+}
+
+.text-11 {
+    font-weight: bold;
+    font-size: 20px;
+    color: #000000;
+}
+
+.text-12 {
+    color: black;
+    font-weight: 500;
+}
+
+.image-2>.image-3 {
+    width: 150px;
+}
+
+.text-13 {
+    padding-left: 20px;
+    padding-top: 20px;
+}
+
+.image-2 {
+    border: #1F1F1F;
+} 
+
+.text-14 {
+    font-size: 40px;
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+    padding-top: 50px;
+}
+
+.text-15>img {
+    width: 450px;
+    height: 500px;
+}
+
+.text-16 {
+    font-weight: bold;
+    font-size: 30px;
+    color: #000000;
+    padding-top: 30px;
+}
+
+.text-17 {
+    color: #000000;
+    font-weight: 500;
+    padding-bottom: 30px;
+}
+
+.space-1 {
+    padding-top: 60px;
+}
+
+.btn-2 {
+    background-color: black;
+    color: white;
+    padding: 15px 30px;
+    border-radius: 35px;
+    border: none;
+    font-weight: 500;
+}
+
+.btn-3 {
+    background-color: transparent;
+    color: black;
+    padding: 15px 30px;
+    border-radius: 35px;
+    border: 1px solid #BEBEBE;
+    font-weight: 500;
+}
+
+.text-18 {
+    padding-left: 20px;
+}
+
+.text-22>.text-21 {
+    font-size: 45px;
+    font-weight: bold;
+    color: #000000;
+    /* padding-top: 50px; */
+}
+
+.text-19 {
+    display: flex;
+    padding-top: 50px;
+}
+
+.text-22>p {
+    color: #000000;
+    font-weight: 500;
+}
+
+
+
+.text-24 {
+    background: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+    height: 510px;
+    border-radius: 20px;
+    padding-left: 30px;
+    margin-top: 60px !important;
+}
+
+.text-23 {
+    font-weight: bold;
+    font-size: 50px;
+    color: #000000;
+    padding-top: 60px;
+}
+
+.image-4 {
+    width: 100%;
+}
+
+/* .first {
+    border: 0.5px solid #BEBEBE;
+} */
