@@ -302,4 +302,12 @@
         margin-top: 10px;
         padding: 0%;
     }
+
+    .image-2>img {
+        width: 100%;
+    } 
+
+    /* .text-15>img {
+        width: 100%;
+    } */
 }
