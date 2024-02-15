@@ -267,3 +267,53 @@
 /* .first {
     border: 0.5px solid #BEBEBE;
 } */
+
+.image-4>img {
+    width: 100%;
+}
+
+@media only screen and (max-width:600px) {
+    .text-9 {
+        text-align: center;
+        font-size: 25px;
+        font-weight: bold;
+    }
+
+    .text-10 {
+        text-align: center;
+        line-height: 40px;
+        font-size: 20px;
+    }
+
+    .first>img {
+        padding-top: 30px;
+    }
+
+    .text-24 {
+        background: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+        height: 840px;
+        border-radius: 20px;
+    }
+
+    .image-4>img {
+        width: 100%;
+    }
+
+    /* .text-14 {
+        line-height: 45px;
+        letter-spacing: 1px;
+    } */
+
+    .text-22>.text-21 {
+        padding-left: 10px;
+    }
+
+    .text-22>.paragraph {
+        padding-left: 15px;
+    }
+
+    .text-16 {
+        margin-top: 10px;
+        padding: 0%;
+    }
+}
